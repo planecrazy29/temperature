@@ -1,0 +1,7 @@
+To Do:
+
+1. Rework code to allow either heating or cooling functionality
+2. Fix power jack in schematic
+3. Add pullup resistor from DTR to VCC in schematic and board
+4. ?Possibly add multi-level menu and 5-way switch to operate.
+5. ?Possibly add external relay board to control larger loads
